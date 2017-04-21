@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;bowling_game&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go/src/string" />
+      <root url="file://$USER_HOME$/go/src/hello" />
+      <root url="file://$USER_HOME$/go/src/temp1" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/go/src/string" />
+      <root url="file://$USER_HOME$/go/src/hello" />
+      <root url="file://$USER_HOME$/go/src/temp1" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
