@@ -12,6 +12,7 @@ func TestGutterBalls(t *testing.T) {
 	}
 }
 
+/*
 func TestGutterBalls2(t *testing.T) {
         t.Log("Rolling all gutter balls... (expected score: 10)")
         game := NewGame()
@@ -21,7 +22,7 @@ func TestGutterBalls2(t *testing.T) {
                 t.Errorf("Expected score of 10, but it was %d instead.", score)
         }
 }
-
+*/
 func TestOnePinOnEveryThrow(t *testing.T) {
 	t.Log("Each throw knocks down one pin... (expected score: 20)")
 	game := NewGame()
