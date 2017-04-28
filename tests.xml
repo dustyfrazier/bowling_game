@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <testsuite name="_/Users/dfrazier/GoglandProjects/bowling_game" tests="5" errors="0" failures="0" skip="0">
+    <testcase classname="_/Users/dfrazier/GoglandProjects/bowling_game" name="TestGutterBalls" time="0.00">
+
+    </testcase>
+    <testcase classname="_/Users/dfrazier/GoglandProjects/bowling_game" name="TestOnePinOnEveryThrow" time="0.00">
+
+    </testcase>
+    <testcase classname="_/Users/dfrazier/GoglandProjects/bowling_game" name="TestSingleSpare" time="0.00">
+
+    </testcase>
+    <testcase classname="_/Users/dfrazier/GoglandProjects/bowling_game" name="TestSingleStrike" time="0.00">
+
+    </testcase>
+    <testcase classname="_/Users/dfrazier/GoglandProjects/bowling_game" name="TestPerfectGame" time="0.00">
+
+    </testcase>
+  </testsuite>
